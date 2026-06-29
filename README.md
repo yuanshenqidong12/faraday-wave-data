@@ -12,8 +12,11 @@
 ### Processed Data (`实验结果汇总/`)
 Radial power spectra, time-averaged images, and background-subtracted images for each tested frequency (30–80 Hz, 5 Hz steps).
 
-### Raw Images
-Raw camera images (~11 GB, 1000 fps × 1000 frames per condition) are available from the corresponding author upon reasonable request.
+### Raw Image Samples (`raw_samples/`)
+Representative single-frame camera images at 30, 40, 50, 60, and 70 Hz.
+
+### Full Raw Image Dataset
+Complete raw camera images (~11 GB, 1000 fps × 1000 frames per condition, 93 conditions) are available from the corresponding author upon reasonable request.
 
 ## Citation
 Wang, J.; Liu, D.; He, S.; et al. Measuring Liquid Metal Interfacial Tension by Faraday Wave Dispersion and Zero-Padded FFT. *Langmuir*, submitted, 2026.
