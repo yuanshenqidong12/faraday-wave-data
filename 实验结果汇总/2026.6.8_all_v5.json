@@ -276,42 +276,6 @@
     "time_avg_mean": 71.05620514798272
   },
   {
-    "path": "圆形容器_10mm\\65hz\\ac(0.7)",
-    "freq": 65.0,
-    "lam_true": 8.479,
-    "sigma": 0.707287,
-    "snr": 2.3,
-    "quality": "reliable",
-    "r_int": 62,
-    "r_refined": 61.6673,
-    "delta_bin": -0.3327,
-    "time_avg_mean": 104.00333395951779
-  },
-  {
-    "path": "圆形容器_10mm\\65hz\\ag(0.8)",
-    "freq": 65.0,
-    "lam_true": 8.248,
-    "sigma": 0.645812,
-    "snr": 2.1,
-    "quality": "reliable",
-    "r_int": 63,
-    "r_refined": 63.3978,
-    "delta_bin": 0.3978,
-    "time_avg_mean": 90.88610998867892
-  },
-  {
-    "path": "圆形容器_10mm\\65hz\\ag(1)",
-    "freq": 65.0,
-    "lam_true": 8.245,
-    "sigma": 0.645023,
-    "snr": 1.8,
-    "quality": "reliable",
-    "r_int": 63,
-    "r_refined": 63.4214,
-    "delta_bin": 0.4214,
-    "time_avg_mean": 72.22039016683046
-  },
-  {
     "path": "圆形容器_10mm\\70hz\\ac(0.6)",
     "freq": 70.0,
     "lam_true": 8.305,
@@ -346,41 +310,5 @@
     "r_refined": 64.0474,
     "delta_bin": 0.0474,
     "time_avg_mean": 81.3755510257399
-  },
-  {
-    "path": "圆形容器_10mm\\73hz\\ac(0.65)",
-    "freq": 73.0,
-    "lam_true": 7.942,
-    "sigma": 0.741029,
-    "snr": 3.2,
-    "quality": "reliable",
-    "r_int": 66,
-    "r_refined": 65.8394,
-    "delta_bin": -0.1606,
-    "time_avg_mean": 134.22950378820866
-  },
-  {
-    "path": "圆形容器_10mm\\75hz\\ag(0.8)",
-    "freq": 75.0,
-    "lam_true": 7.596,
-    "sigma": 0.681051,
-    "snr": 3.7,
-    "quality": "reliable",
-    "r_int": 69,
-    "r_refined": 68.8374,
-    "delta_bin": -0.1626,
-    "time_avg_mean": 171.86409782162448
-  },
-  {
-    "path": "圆形容器_10mm\\75hz\\ag(1)",
-    "freq": 75.0,
-    "lam_true": 7.573,
-    "sigma": 0.67445,
-    "snr": 4.1,
-    "quality": "reliable",
-    "r_int": 69,
-    "r_refined": 69.0446,
-    "delta_bin": 0.0446,
-    "time_avg_mean": 160.21233859991793
   }
 ]

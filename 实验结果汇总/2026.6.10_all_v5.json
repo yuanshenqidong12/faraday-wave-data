@@ -60,30 +60,6 @@
     "time_avg_mean": 49.11350070290243
   },
   {
-    "path": "圆形容器_10mm_0.3曝光\\34hz\\ac(0.8)",
-    "freq": 34.0,
-    "lam_true": 14.689,
-    "sigma": 0.980026,
-    "snr": 3.6,
-    "quality": "reliable",
-    "r_int": 36,
-    "r_refined": 35.5971,
-    "delta_bin": -0.4029,
-    "time_avg_mean": 90.39965124842936
-  },
-  {
-    "path": "圆形容器_10mm_0.3曝光\\34hz\\ag(0.88)",
-    "freq": 34.0,
-    "lam_true": 14.067,
-    "sigma": 0.838433,
-    "snr": 3.4,
-    "quality": "reliable",
-    "r_int": 37,
-    "r_refined": 37.1708,
-    "delta_bin": 0.1708,
-    "time_avg_mean": 78.73249912292707
-  },
-  {
     "path": "圆形容器_10mm_0.3曝光\\35hz\\ag(1.2)",
     "freq": 35.0,
     "lam_true": 14.449,
@@ -106,54 +82,6 @@
     "r_refined": 36.2181,
     "delta_bin": 0.2181,
     "time_avg_mean": 134.8989359923365
-  },
-  {
-    "path": "圆形容器_10mm_0.3曝光\\36hz\\ag(0.8)",
-    "freq": 36.0,
-    "lam_true": 13.516,
-    "sigma": 0.842215,
-    "snr": 1.1,
-    "quality": "weak",
-    "r_int": 39,
-    "r_refined": 38.6877,
-    "delta_bin": -0.3123,
-    "time_avg_mean": 84.54837878354337
-  },
-  {
-    "path": "圆形容器_10mm_0.3曝光\\37hz\\ag(0.8)",
-    "freq": 37.0,
-    "lam_true": 13.574,
-    "sigma": 0.916925,
-    "snr": 1.5,
-    "quality": "reliable",
-    "r_int": 39,
-    "r_refined": 38.5227,
-    "delta_bin": -0.4773,
-    "time_avg_mean": 152.7570275065003
-  },
-  {
-    "path": "圆形容器_10mm_0.3曝光\\38hz\\ag(0.8)",
-    "freq": 38.0,
-    "lam_true": 13.872,
-    "sigma": 1.058561,
-    "snr": 3.3,
-    "quality": "reliable",
-    "r_int": 38,
-    "r_refined": 37.6931,
-    "delta_bin": -0.3069,
-    "time_avg_mean": 112.71576078924124
-  },
-  {
-    "path": "圆形容器_10mm_0.3曝光\\39hz\\ag(0.8)",
-    "freq": 39.0,
-    "lam_true": 13.533,
-    "sigma": 1.03461,
-    "snr": 3.8,
-    "quality": "reliable",
-    "r_int": 39,
-    "r_refined": 38.6381,
-    "delta_bin": -0.3619,
-    "time_avg_mean": 149.96363146763537
   },
   {
     "path": "圆形容器_10mm_0.3曝光\\40hz\\ag(0.75)",
@@ -192,18 +120,6 @@
     "time_avg_mean": 134.71282656349138
   },
   {
-    "path": "圆形容器_10mm_0.3曝光\\42hz\\ag(0.8)",
-    "freq": 42.0,
-    "lam_true": 12.555,
-    "sigma": 0.954727,
-    "snr": 2.6,
-    "quality": "reliable",
-    "r_int": 42,
-    "r_refined": 41.6489,
-    "delta_bin": -0.3511,
-    "time_avg_mean": 101.36337340913897
-  },
-  {
     "path": "圆形容器_10mm_0.3曝光\\45hz\\ac(0.8)",
     "freq": 45.0,
     "lam_true": 11.781,
@@ -238,18 +154,6 @@
     "r_refined": 36.6134,
     "delta_bin": -0.3866,
     "time_avg_mean": 68.62423213197148
-  },
-  {
-    "path": "圆形容器_10mm_0.3曝光\\48hz\\ag(0.8)",
-    "freq": 48.0,
-    "lam_true": 10.871,
-    "sigma": 0.802836,
-    "snr": 3.7,
-    "quality": "reliable",
-    "r_int": 48,
-    "r_refined": 48.0982,
-    "delta_bin": 0.0982,
-    "time_avg_mean": 179.18123450815492
   },
   {
     "path": "圆形容器_10mm_0.3曝光\\50hz\\ac(0.7)",
