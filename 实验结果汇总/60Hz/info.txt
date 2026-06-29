@@ -1,0 +1,7 @@
+f_drive: 60 Hz
+lambda: 9.02 mm
+sigma: 0.721 N/m
+SNR: 2.8
+source: 实验图片/2026.6.4/圆形容器_10mm/60Hz/ag(0.8)_曝光0.3
+calib: cx=226 cy=231
+method: V5 ZP-FFT 2048px

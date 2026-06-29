@@ -1,0 +1,6 @@
+f_drive: 55 Hz
+lambda: 9.87 mm
+sigma: 0.797 N/m
+SNR: 1.7
+source: 实验图片/2026.6.10/圆形容器_10mm_0.3曝光/55hz/ac(0.83)
+calib: cx=330 cy=245

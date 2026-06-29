@@ -1,0 +1,15 @@
+频率 (f_drive): 80 Hz
+Faraday频率 (f/2): 40.0 Hz
+液层厚度 (h_LM): 10mm
+Faraday波长 (λ_true): 7.0 mm (已做强度加倍修正)
+界面张力 (σ): 0.614 N/m
+信噪比 (SNR): 7.7
+数据来源: 2026.6.4 圆形容器_10mm
+
+参数说明:
+  f_drive=激振器驱动频率
+  f/2=Faraday波响应频率(亚谐波)
+  h_LM=液态金属Galinstan层厚度(10mm)
+  λ_true=Faraday波真实波长
+  σ=Galinstan-NaOH界面张力(双层色散关系反演,Zhao2018)
+  SNR=空间FFT信噪比

@@ -1,0 +1,6 @@
+f_drive: 65 Hz
+lambda: 8.30 mm
+sigma: 0.659 N/m
+SNR: 2.1
+source: 实验图片/2026.6.8/圆形容器_10mm/65hz/ag(0.8)
+calib: cx=274 cy=240

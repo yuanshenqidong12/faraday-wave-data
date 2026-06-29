@@ -1,0 +1,6 @@
+f_drive: 70 Hz
+lambda: 8.17 mm
+sigma: 0.740 N/m
+SNR: 2.0
+source: 实验图片/2026.6.4/圆形容器_10mm/70Hz/ag(1)_曝光0.3
+calib: cx=226 cy=231

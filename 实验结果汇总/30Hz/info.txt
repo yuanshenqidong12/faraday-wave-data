@@ -1,0 +1,7 @@
+f_drive: 30 Hz
+lambda: 16.34 mm
+sigma: 1.041 N/m
+SNR: 2.6
+source: 实验图片/2026.6.8/圆形容器_10mm/30hz/ag(0.5)
+calib: cx=274 cy=240
+method: V5 ZP-FFT 2048px
